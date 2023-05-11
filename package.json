@@ -1,0 +1,20 @@
+{
+  "name": "fcc-learn-node-with-express",
+  "version": "0.1.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.14.0",
+    "fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git",
+    "morgan": "^1.10.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "devDependencies": {
+    "env": "^0.0.2",
+    "nodemon": "^2.0.22"
+  }
+}
