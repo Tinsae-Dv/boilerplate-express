@@ -1,0 +1,6 @@
+# render.yaml
+services:
+  - name: my-app
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: node server.js
