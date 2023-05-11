@@ -7,6 +7,7 @@
     "dotenv": "^16.0.1",
     "express": "^4.14.0",
     "fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git",
+    "ip": "^1.1.8",
     "morgan": "^1.10.0"
   },
   "main": "server.js",
